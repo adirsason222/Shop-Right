@@ -1,0 +1,26 @@
+* {
+    background: rgb(129, 133, 121);
+    
+}
+.headmain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+.itemname {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.itemquantity {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
